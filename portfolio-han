@@ -107,7 +107,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Project 1 -->
                 <div class="project-card relative rounded-lg overflow-hidden" data-aos="fade-up" data-aos-delay="100">
-                    <img src="http://static.photos/technology/640x360/1" alt="Project 1" class="w-full h-64 object-cover">
+                    <img src="https://www.hanihattou.se/wp-content/uploads/2025/09/Skarmbild-2025-09-25-114438.png">
                     <div class="project-overlay absolute inset-0 bg-black bg-opacity-80 flex flex-col justify-center items-center opacity-0 transform translate-y-4 transition-all duration-300 p-6">
                         <h3 class="text-2xl font-bold mb-2">3D Product Visualization</h3>
                         <p class="text-center mb-4">High-end product renders for Certified Copy</p>
